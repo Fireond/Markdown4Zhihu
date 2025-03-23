@@ -1,11 +1,3 @@
----
-id: I-1
-aliases:
-  - Part I
-tags: []
-sources: []
----
-
 # Part I
 
 ## 1 I.1
